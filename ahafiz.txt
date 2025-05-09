@@ -1,1 +1,18 @@
 ini hafiz guys 
+<<<<<<< HEAD
+---yaya cinta q by akbar
+test bar
+=======
+<<<<<<< HEAD
+kalsksldksld
+=======
+test bar
+>>>>>>> 59d855a3b5b5d8d947304a3bc498993e466c0d3f
+test agil
+tets ...
+
+
+test lagi dong dong pun!
+
+di test lagi dong!
+>>>>>>> 44056fed9cbf2349a521c19864064c90642d19f3
