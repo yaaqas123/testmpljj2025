@@ -1,4 +1,7 @@
 Hello ganteng!
 test test test
 kok gtuuu
+<<<<<<< Updated upstream
 omeegaat
+=======
+>>>>>>> Stashed changes
