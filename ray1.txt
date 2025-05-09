@@ -13,6 +13,8 @@ hallo saya Assariy
 tes ae
 =======
 >>>>>>> Stashed changes
+
+# INI RENO
 =======
 <<<<<<< HEAD
 tes ae
@@ -24,6 +26,7 @@ tes ae
 =======
 >>>>>>> Stashed changes
 =======
+Halo saya Zhulma Fitrah
 <<<<<<< HEAD
 tes ae
 =======
