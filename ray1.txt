@@ -32,6 +32,10 @@ tes ae
 
 
 falis on the line
+<<<<<<< HEAD
+
+Halo saya ROsul iman
+=======
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -51,3 +55,7 @@ inii
 =======
 >>>>>>> 90b3f6b384f9abfeab6c6133bba749ac358f6667
 >>>>>>> Stashed changes
+
+Update laagigi
+inii
+>>>>>>> 8d406f923c3136a7e82145699de504d759d1e186
